@@ -15,7 +15,7 @@ displayName="Edible Pumpkin Seeds" #mandatory
 updateJSONURL="http://myurl.me/" #optional
 
 # A URL for the "homepage" for this mod, displayed in the mod UI
-displayURL="http://example.com/" #optional
+displayURL="https://www.curseforge.com/minecraft/mc-mods/edible-pumpkin-seeds" #optional
 
 logoFile="toasted_pumpkin_seeds.png" #optional
 
