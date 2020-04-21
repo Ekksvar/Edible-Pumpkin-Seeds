@@ -1,0 +1,43 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[31,)" #mandatory 
+
+issueTrackerURL="http://my.issue.tracker/" #optional
+
+[[mods]] #mandatory
+
+modId="pumpkinseeds" #mandatory
+
+version="1.0" #mandatory
+
+displayName="Edible Pumpkin Seeds" #mandatory
+
+updateJSONURL="http://myurl.me/" #optional
+
+# A URL for the "homepage" for this mod, displayed in the mod UI
+displayURL="http://example.com/" #optional
+
+logoFile="toasted_pumpkin_seeds.png" #optional
+
+credits="Created by Ekksvar for u/CliffLanterns" #optional
+
+authors="Ekksvar" #optional
+
+description='''
+You can eat pumpkin seeds, and toasted pumpkin seeds.
+'''
+
+
+[[dependencies.pumpkinseeds]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[31,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.pumpkinseeds]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
