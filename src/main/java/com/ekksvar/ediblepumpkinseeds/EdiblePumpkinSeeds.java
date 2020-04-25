@@ -15,7 +15,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 @Mod("pumpkinseeds")
 public class EdiblePumpkinSeeds
 {
-	private static final Logger LOGGER = LogManager.getLogger();
+	public static final Logger LOGGER = LogManager.getLogger();
     public static final String MOD_ID = "pumpkinseeds";
     public static EdiblePumpkinSeeds instance;
     
