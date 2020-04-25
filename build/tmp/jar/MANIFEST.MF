@@ -3,7 +3,7 @@ Implementation-Title: Edible Pumpkin Seeds
 Implementation-Version: 1.0
 Specification-Vendor: examplemodsareus
 Specification-Title: examplemod
-Implementation-Timestamp: 2020-04-21T10:57:15-0400
+Implementation-Timestamp: 2020-04-24T20:35:14-0400
 Specification-Version: 1
 Implementation-Vendor: examplemodsareus
 
